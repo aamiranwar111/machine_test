@@ -4,6 +4,9 @@
 
 Steps to Setup
 
+- run 'cp .env.example .env"
+- run 'php artisan key:generate"
+
 - run 'composer install"
 - run 'php artisan migrate:fresh --seed'
 
